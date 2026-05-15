@@ -1,0 +1,17 @@
+E:\app_cache\coscos_project\cardp\Classes\AppDelegate.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\AppDelegate.obj
+E:\app_cache\coscos_project\cardp\Classes\configs\CardResConfig.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\CardResConfig.obj
+E:\app_cache\coscos_project\cardp\Classes\configs\LevelConfigLoader.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\LevelConfigLoader.obj
+E:\app_cache\coscos_project\cardp\Classes\controllers\GameController.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\GameController.obj
+E:\app_cache\coscos_project\cardp\Classes\controllers\StackController.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\StackController.obj
+E:\app_cache\coscos_project\cardp\Classes\controllers\PlayFieldController.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\PlayFieldController.obj
+E:\app_cache\coscos_project\cardp\Classes\managers\UndoManager.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\UndoManager.obj
+E:\app_cache\coscos_project\cardp\Classes\models\CardModel.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\CardModel.obj
+E:\app_cache\coscos_project\cardp\Classes\models\GameModel.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\GameModel.obj
+E:\app_cache\coscos_project\cardp\Classes\scenes\GameScene.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\GameScene.obj
+E:\app_cache\coscos_project\cardp\Classes\severs\GameModelFromLevelGenerator.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\GameModelFromLevelGenerator.obj
+E:\app_cache\coscos_project\cardp\Classes\utils\util.h;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\util.obj
+E:\app_cache\coscos_project\cardp\Classes\views\CardView.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\CardView.obj
+E:\app_cache\coscos_project\cardp\Classes\views\GameView.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\GameView.obj
+E:\app_cache\coscos_project\cardp\Classes\views\StackView.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\StackView.obj
+E:\app_cache\coscos_project\cardp\Classes\views\PlayFieldView.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\PlayFieldView.obj
+E:\app_cache\coscos_project\cardp\proj.win32\main.cpp;E:\app_cache\coscos_project\cardp\proj.win32\Debug.win32\main.obj
